@@ -11,7 +11,7 @@
     display: flex;
     justify-content: center;
     font-family: 'bangers';
-    font-size: 50px;
+    font-size: 40px;
     color: rgb(204, 0, 255);
     text-shadow: 1px 1px 2px black;
 }
@@ -21,14 +21,14 @@
     margin: 25px 5px 5px 5px;
     justify-content: center;
     font-family: 'Bangers';
-    font-size: 30px;
+    font-size: 25px;
     text-shadow: 1px 1px 2px black;
     color: rgb(255, 94, 0);
 }
 
 .space {
     font-family: 'bangers';
-    font-size: 30px;
+    font-size: 25px;
     display: flex;
     justify-content: center;
     text-shadow: 2px 2px 3px black;
